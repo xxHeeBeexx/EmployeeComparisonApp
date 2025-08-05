@@ -1,0 +1,14 @@
+C:\Users\harri\Documents\EmployeeComparisonApp\bin\Debug\net8.0\EmployeeComparisonApp.exe
+C:\Users\harri\Documents\EmployeeComparisonApp\bin\Debug\net8.0\EmployeeComparisonApp.deps.json
+C:\Users\harri\Documents\EmployeeComparisonApp\bin\Debug\net8.0\EmployeeComparisonApp.runtimeconfig.json
+C:\Users\harri\Documents\EmployeeComparisonApp\bin\Debug\net8.0\EmployeeComparisonApp.dll
+C:\Users\harri\Documents\EmployeeComparisonApp\bin\Debug\net8.0\EmployeeComparisonApp.pdb
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\EmployeeComparisonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\EmployeeComparisonApp.AssemblyInfoInputs.cache
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\EmployeeComparisonApp.AssemblyInfo.cs
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\EmployeeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\EmployeeComparisonApp.dll
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\refint\EmployeeComparisonApp.dll
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\EmployeeComparisonApp.pdb
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\EmployeeComparisonApp.genruntimeconfig.cache
+C:\Users\harri\Documents\EmployeeComparisonApp\obj\Debug\net8.0\ref\EmployeeComparisonApp.dll
